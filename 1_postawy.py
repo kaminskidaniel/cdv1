@@ -63,3 +63,4 @@ print(nazwisko[-2])
 print(nazwisko[-2:])
 print(nazwisko[:-2])
 print(nazwisko[:-2:2])
+
