@@ -15,5 +15,6 @@ print(losuj)
 
 losujZlisty = random.choice([1,2,3,4,5])
 print(losujZlisty)
+
 losujLitere = random.choice("Janusz")
 print(losujLitere)
